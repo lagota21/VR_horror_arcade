@@ -1,3 +1,3 @@
-# VIrtual_Reality_test
+# VR_HorrorArcade
 
 Developed with Unreal Engine 5

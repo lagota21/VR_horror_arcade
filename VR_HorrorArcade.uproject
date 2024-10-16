@@ -50,6 +50,10 @@
 				"Mac",
 				"IOS"
 			]
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [

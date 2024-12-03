@@ -50,6 +50,10 @@
 				"Mac",
 				"IOS"
 			]
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

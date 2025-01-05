@@ -52,13 +52,8 @@
 			]
 		},
 		{
-<<<<<<< HEAD
 			"Name": "UdpMessaging",
 			"Enabled": false
-=======
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
->>>>>>> Harvey_Assets_5.4.4
 		}
 	],
 	"TargetPlatforms": [
